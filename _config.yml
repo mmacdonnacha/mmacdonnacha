@@ -34,7 +34,7 @@ github:
   username: mmacdonnacha             # change to your github username
 
 twitter:
-  username: mikerua13            # change to your twitter username
+  username: mmacdonnacha         # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +43,7 @@ social:
   email: micheal.macdonnacha13@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/mikerua13      # change to your twitter homepage
+    - https://twitter.com/mmacdonnacha      # change to your twitter homepage
     - https://github.com/mmacdonnacha       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -159,7 +159,7 @@ exclude:
   - LICENSE
   - gulpfile.js
   - node_modules
-  - package.json
+  - package*.json
 
 jekyll-archives:
   enabled: [categories, tags]

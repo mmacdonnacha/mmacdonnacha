@@ -145,7 +145,7 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 5.0)
-  jekyll-theme-chirpy (~> 7.0)
+  jekyll-theme-chirpy (~> 7.0, >= 7.0.1)
 
 BUNDLED WITH
    2.2.29

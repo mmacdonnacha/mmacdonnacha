@@ -1,17 +1,14 @@
 ---
 title: Tryhackme - Git Happens
 date: '2021-11-02 22:30:00'
-author: Michael
-categories: [tryhackme]
-tags: [tryhackme, git]
+description: Boss wanted me to create a prototype, so here it is! We even used something called "version control" that made deploying this really easy!
+categories: [TryHackMe, 'Git Happens']
+tags: [tryhackme, 'git happens', git]
 ---
 
 # Git Happens
 
 TryHackMe Room Link: [Git Happens](https://tryhackme.com/room/githappens)
-
-## Description
-Boss wanted me to create a prototype, so here it is! We even used something called "version control" that made deploying this really easy!
 
 ## Task 1 Capture the flag
 

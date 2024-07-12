@@ -9,7 +9,7 @@ tags: [picoctf, 'general-skills', picoctf-easy]
 ## Description
 
 This challenge is part of the picoCTF2019 competition.  
-It is a *General Skills* - Easy category.
+It is a *General Skills* - *Easy* category.
 
 The objective for this challenge is to convert the decimal value **42** to its
 binary value.

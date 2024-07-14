@@ -1,5 +1,5 @@
 ---
-title: PicoCTF - 2warm
+title: picoCTF - 2warm
 date: '2024-07-01 19:37:00'
 description: 'Can you convert the number 42 (base 10) to binary (base 2)? '
 categories: [picoCTF, picoCTF 2019]
@@ -8,8 +8,10 @@ tags: [picoctf, 'general-skills', picoctf-easy]
 
 ## Description
 
-This challenge is part of the picoCTF2019 competition.  
-It is a *General Skills* - *Easy* category.
+|Name|2warm|
+|Event|picoCTF 2019|
+|Category|General Skills|
+|Difficulty|Easy|
 
 The objective for this challenge is to convert the decimal value **42** to its
 binary value.

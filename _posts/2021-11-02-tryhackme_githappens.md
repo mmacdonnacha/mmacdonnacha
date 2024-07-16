@@ -2,7 +2,7 @@
 title: TryHackMe - Git Happens
 date: '2021-11-02 22:30:00'
 description: Boss wanted me to create a prototype, so here it is! We even used something called "version control" that made deploying this really easy!
-categories: [TryHackMe, 'Git Happens']
+categories: [TryHackMe, Easy]
 tags: [tryhackme, 'git happens', git]
 ---
 
